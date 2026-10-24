@@ -56,7 +56,7 @@ Our method demonstrates superior performance across multiple dynamic environment
 ### Installation
 
 ```bash
-git clone https://github.com/mcptest-user/llm-adaptive-learning.git
+git clone https://github.com/Highwayacrossquicken/llm-adaptive-learning.git
 cd llm-adaptive-learning
 pip install -r requirements.txt
 ```
